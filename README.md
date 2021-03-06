@@ -6,7 +6,6 @@ Social networking ADS:
  Task yet to be finished:
   Decision boundary graph for the predicted output, 
   Heart_failure problem, 
-  (Estimated time tonight 12), 
   Documentation and video record,  
-  (Estimated time tomorrow 2 pm).
+
  
